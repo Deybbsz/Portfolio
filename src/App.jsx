@@ -4,7 +4,7 @@ const profile = {
   name: 'John Dale Javier',
   initials: 'JD',
   role: 'Frontend Developer & Creative Thinker',
-  email: 'hello@example.com',
+  email: 'dalejavier033@gmail.com.com',
   github: 'https://github.com/',
   linkedin: 'https://www.linkedin.com/',
   location: 'Philippines',
