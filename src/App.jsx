@@ -6,7 +6,6 @@ const profile = {
   role: 'Frontend Developer & Creative Thinker',
   email: 'dalejavier033@gmail.com.com',
   github: 'https://github.com/',
-  linkedin: 'https://www.linkedin.com/',
   location: 'Philippines',
   about: "I'm a passionate developer who enjoys turning ideas into clean, functional, and meaningful digital experiences. I love learning new technologies and building projects that solve real problems.",
 }
